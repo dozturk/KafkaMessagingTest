@@ -48,7 +48,7 @@ public class logIn extends Application {
                 newWindow.setY(primaryStage.getY() + 100);
 
                 final Button register = new Button();
-                register.setLayoutX(180);
+                register.setLayoutX(190);
                 register.setLayoutY(250);
                 register.setText("Register account");
                 register.setOnAction(new EventHandler<ActionEvent>() {

@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76f322d8-e672-40f1-8409-1275dd6cce81" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/logIn$1$1.class" afterPath="$PROJECT_DIR$/target/classes/logIn$1$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/logIn$1.class" afterPath="$PROJECT_DIR$/target/classes/logIn$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/logIn.class" afterPath="$PROJECT_DIR$/target/classes/logIn.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/logIn.java" afterPath="$PROJECT_DIR$/src/main/java/logIn.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -42,8 +46,8 @@
       <file leaf-file-name="logIn.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/logIn.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="40" column="50" lean-forward="false" selection-start-line="40" selection-start-column="50" selection-end-line="40" selection-end-column="50" />
+            <state relative-caret-position="246">
+              <caret line="50" column="39" lean-forward="false" selection-start-line="50" selection-start-column="39" selection-end-line="50" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#863#2595#0" expanded="true" />
@@ -465,6 +469,14 @@
       <option name="presentableId" value="Default" />
       <updated>1532335383507</updated>
     </task>
+    <task id="LOCAL-00001" summary="Test Commit via Intellij">
+      <created>1533128583015</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1533128583015</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -504,6 +516,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Test Commit via Intellij" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test Commit via Intellij" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -684,8 +700,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/logIn.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="40" column="50" lean-forward="false" selection-start-line="40" selection-start-column="50" selection-end-line="40" selection-end-column="50" />
+        <state relative-caret-position="246">
+          <caret line="50" column="39" lean-forward="false" selection-start-line="50" selection-start-column="39" selection-end-line="50" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#863#2595#0" expanded="true" />
